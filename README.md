@@ -6,4 +6,4 @@ This repository is a series of notebooks that show solutions to the projects on 
 3. Pandas and NumPy Fundamentals - [Exploring Ebay Car Sales Data](https://github.com/doyinsolamiolaoye/DataQuest_Projects/blob/master/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)
 4. Exploratory Data Visualization - [Visualizing Earnings Based on College Majors](https://github.com/doyinsolamiolaoye/DataQuest_Projects/commit/95aae2b7ea8087cc4ce5cf8c1c93e3263380cea9)
 5. Storytelling through Data Visualization - [Visualizing The Gender Gap in College Degrees](https://github.com/doyinsolamiolaoye/DataQuest_Projects/blob/master/Visualizing%20The%20Gender%20Gap%20in%20College%20Degrees.ipynb)
-6. Data Cleaning and Analysis - [CLean and Analyze Employee Exit Surveys]()
+6. Data Cleaning and Analysis - [CLean and Analyze Employee Exit Surveys](https://github.com/doyinsolamiolaoye/DataQuest_Projects/blob/master/Clean%20and%20Analyze%20Employee%20Exit%20Surveys.ipynb)
