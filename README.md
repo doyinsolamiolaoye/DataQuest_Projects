@@ -8,3 +8,4 @@ This repository is a series of notebooks that show solutions to the projects on 
 5. Storytelling through Data Visualization - [Visualizing The Gender Gap in College Degrees](https://github.com/doyinsolamiolaoye/DataQuest_Projects/blob/master/Visualizing%20The%20Gender%20Gap%20in%20College%20Degrees.ipynb)
 6. Data Cleaning and Analysis - [Clean and Analyze Employee Exit Surveys](https://github.com/doyinsolamiolaoye/DataQuest_Projects/blob/master/Clean%20and%20Analyze%20Employee%20Exit%20Surveys.ipynb)
 7. SQL Fundamentals - [Analyzing CIA Factbook Data Using SQL](https://github.com/doyinsolamiolaoye/DataQuest_Projects/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb)
+8. Intermediate SQL for Data Analysis - [Answering Business Questions using SQL]()
