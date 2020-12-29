@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://www.dataquest.io">
+        <img alt="" src="dataquest.png" >
+    </a>
+</p>
+
 # DataQuest Project Solutions
 This repository is a series of notebooks that show solutions to the projects on [Dataquest.io](https://www.dataquest.io).
 
